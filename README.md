@@ -12,22 +12,6 @@ modularity, and maintainability.
 
 ---
 
-## Repository Structure
-
-OOPS-Codes/
-├── Abstraction/
-├── Classes/
-├── Constructors/
-├── Encapsulation/
-├── Inheritance/
-├── OperatorOverloading/
-├── Polymorphism/
-├── questions/
-└── README.md
-
-
----
-
 ## OOPS Concepts Covered
 
 - Classes and Objects  
@@ -67,8 +51,10 @@ This section is useful for:
 ## How to Compile and Run
 
 ### Windows
+```bash
 g++ filename.cpp
 a.exe
+```
 
 ### Linux / macOS
 ```bash
