@@ -3,12 +3,12 @@
 ## Overview
 This repository contains a well-organized collection of **C++ programs**
 demonstrating core **Object-Oriented Programming (OOPS)** concepts.
-The purpose of this repository is to provide clear, concise, and practical
+The objective of this repository is to provide clear, concise, and practical
 implementations of OOPS principles for **academic learning**, **interview
 preparation**, and **hands-on practice**.
 
-Each concept is maintained in a separate folder to ensure modularity,
-readability, and ease of navigation.
+Each concept is organized into a separate folder to improve readability,
+modularity, and maintainability.
 
 ---
 
@@ -25,6 +25,7 @@ OOPS-Codes/
 ├── questions/
 └── README.md
 
+
 ---
 
 ## OOPS Concepts Covered
@@ -39,14 +40,15 @@ OOPS-Codes/
 - Abstraction  
 - Operator Overloading  
 
-Each folder contains focused examples that demonstrate the respective concept
-with correct syntax, meaningful logic, and clear structure.
+Each folder contains focused example programs demonstrating the respective
+concept with correct syntax and clear logic.
 
 ---
 
 ## Questions Folder
-The `questions` directory contains **practice problems and conceptual
-questions** related to OOPS, useful for:
+The `questions` directory contains practice problems and conceptual
+questions related to OOPS.  
+This section is useful for:
 - Technical interview preparation
 - University examinations
 - Concept revision
@@ -64,7 +66,12 @@ questions** related to OOPS, useful for:
 
 ## How to Compile and Run
 
+### Windows
+g++ filename.cpp
+a.exe
+
 ### Linux / macOS
 ```bash
 g++ filename.cpp
 ./a.out
+
